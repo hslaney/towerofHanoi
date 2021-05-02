@@ -73,6 +73,7 @@ public class Peg {
         System.out.println(Arrays.toString(p1.discs));
         p1.addDisc(4);
         System.out.println(Arrays.toString(p1.discs));
+        p1.popDisc();
         System.out.println(Arrays.toString(p1.discs));
     }
 
