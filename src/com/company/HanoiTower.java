@@ -38,9 +38,42 @@ public class HanoiTower {
     }
     public static void main(String[] args) {
         // TODO Auto-generated method stub
-        HanoiTower ht = new HanoiTower(3);
+        HanoiTower ht = new HanoiTower(5);
         ht.solveTower();
     }
 
 }
 
+/*
+Moving disc 1 from peg 1 to peg 3
+Moving disc 2 from peg 1 to peg 2
+Moving disc 1 from peg 3 to peg 2
+Moving disc 3 from peg 1 to peg 3
+Moving disc 1 from peg 2 to peg 1
+Moving disc 2 from peg 2 to peg 3
+Moving disc 1 from peg 1 to peg 3
+Moving disc 4 from peg 1 to peg 2
+Moving disc 1 from peg 3 to peg 2
+Moving disc 2 from peg 3 to peg 1
+Moving disc 1 from peg 2 to peg 1
+Moving disc 3 from peg 3 to peg 2
+Moving disc 1 from peg 1 to peg 3
+Moving disc 2 from peg 1 to peg 2
+Moving disc 1 from peg 3 to peg 2
+Moving disc 5 from peg 1 to peg 3
+Moving disc 1 from peg 2 to peg 1
+Moving disc 2 from peg 2 to peg 3
+Moving disc 1 from peg 1 to peg 3
+Moving disc 3 from peg 2 to peg 1
+Moving disc 1 from peg 3 to peg 2
+Moving disc 2 from peg 3 to peg 1
+Moving disc 1 from peg 2 to peg 1
+Moving disc 4 from peg 2 to peg 3
+Moving disc 1 from peg 1 to peg 3
+Moving disc 2 from peg 1 to peg 2
+Moving disc 1 from peg 3 to peg 2
+Moving disc 3 from peg 1 to peg 3
+Moving disc 1 from peg 2 to peg 1
+Moving disc 2 from peg 2 to peg 3
+Moving disc 1 from peg 1 to peg 3
+ */
